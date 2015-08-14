@@ -16,7 +16,8 @@ The user may select the category or display items of all categories.
 Number of slides is unlimited and you may specify how many slides you want to be visible in column.
 Image sizes available to select from the list are determined at Media Settings of Wordpress. This way the plugin do not have to scale images by itself which is more site optimization friendly solution. 
 
-** Configuration (see screenshot of backend): **
+**Configuration (see screenshot of backend):**
+
 1. Widget title.
 2. Category - select the category to display items. You may select the specified category or display items from all  categories. Empty categories are not displayed.
 3. Number of slides in column.
