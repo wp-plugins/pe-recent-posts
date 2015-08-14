@@ -1,0 +1,75 @@
+#sidebar{
+	position:static !important;
+}
+.pe-recent-posts-outer{
+    padding: 40px 0 0;
+    position: relative;
+}
+.pe-recent-posts-outer ol.carousel-indicators{
+    bottom: auto;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+.pe-recent-posts-outer .carousel-indicators li{
+    background: #ccc none repeat scroll 0 0;
+    border: medium none;
+    margin: 1px !important;
+}
+.pe-recent-posts-outer .carousel-indicators .active{
+    background: #000 none repeat scroll 0 0;
+    border: medium none;
+    height: 10px;
+    margin: 1px !important;
+    width: 10px;
+}
+.pe-recent-posts-outer .caption{
+    border: medium none;
+    margin: 0;
+    width: auto;
+}
+.pe-recent-posts-outer .caption h5{
+	display:inline;
+}
+.pe-recent-posts-outer .caption.image-on{
+	
+}
+.pe-recent-posts-outer .excerpt-text{
+	margin:5px 0 0;
+}
+.pe-recent-posts-outer ul.thumbnails{
+    float: left;
+    margin: 0 0 10px;
+    width: 100%;
+}
+.pe-recent-posts-outer ul.thumbnails li{
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.pe-recent-posts-outer ul li img{
+    border: 1px solid #ddd;
+    display: inline-block;
+    padding: 10px;
+    width: auto;
+}
+.pe-recent-posts-outer .image-left ul li img{
+    float: left;
+    margin: 0 15px 10px 0;
+}
+.pe-recent-posts-outer .image-right ul li img{
+    float: right;
+    margin: 0 0 10px 15px;
+}
+.pe-recent-posts-outer .image-top ul li img{
+    float: none;
+    margin: 0 0 10px;
+}
+.pe-recent-posts-outer .image-bottom ul li img{
+    float: none;
+    margin: 10px 0 0;
+}
